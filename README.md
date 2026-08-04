@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamday%20Rabby%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder%20of%20Impactful%20Products&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=6,11,20&height=200&section=header&text=Hamday%20Rabby%20Hossain&fontSize=42&fontColor=7C3AED&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder%20of%20Impactful%20Products&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -36,115 +36,21 @@ const hamdayRabby = {
   education: "HSTU — Hajee Mohammad Danesh Science & Technology University",
   currentFocus: [
     "Building AI-powered SaaS products",
-    "Working on Antigravity — an agentic AI coding assistant @ Google DeepMind",
     "Exploring LLM integration in real-world applications",
+    "Full-Stack Development with MERN & Next.js"
   ],
   skills: {
     frontend:      ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
     backend:       ["Node.js", "Express.js"],
-    database:      ["MongoDB", "Mongoose"],
-    aiTools:       ["Gemini API", "OpenAI API", "LangChain"],
-    devOps:        ["Git", "Vercel", "Railway", "Netlify"],
+    database:      ["MongoDB", "Mongoose", "PostgreSQL", "Prisma"],
+    aiTools:       ["Gemini API", "OpenAI API", "LangChain", "OpenRouter"],
+    devOps:        ["Git", "Docker", "Vercel", "Railway", "Netlify", "Supabase"],
     methodologies: ["Agile", "Iterative Waterfall", "REST APIs"],
   },
   passions: ["AI/ML Products", "Clean UI/UX", "Behavioral Finance", "Mental Health Tech"],
-  funFact: "I once built a stress-relieving app to fight my own exam stress 😅",
+  funFact: "I built a stress-relieving app to tackle my own exam stress 😅",
 };
 ```
-
----
-
-## 🚀 Featured Projects
-
-> These are the projects I'm most proud of — each one solves a real problem with real technology.
-
-<br/>
-
-### 🧠 [Knotic Sense](https://github.com/Hamdayrabby/knotic_Sense) — AI Job Application CRM
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://knotic-sense.vercel.app)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-> An **AI-powered job application CRM** that takes the guesswork out of job hunting. Features ATS-aware resume scoring, job lifecycle tracking (applied → interview → offer), and semantic match analysis between your profile and job descriptions.
-
-**Key Features:**
-- 🤖 ATS-aware resume scoring with AI feedback
-- 📊 End-to-end job lifecycle tracking dashboard
-- 🔍 Semantic match analysis (your skills vs. job requirements)
-- 📈 Application analytics & success metrics
-
----
-
-### 🍳 [Let's Cook](https://github.com/Hamdayrabby/Let-s-Cook) — AI Recipe Platform
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://let-s-cook-ruddy.vercel.app/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-> A **full-stack recipe management app** with AI-powered recipe generation. Tell the AI what ingredients you have, and it generates a custom recipe — instantly.
-
-**Key Features:**
-- 🤖 AI-generated recipes from available ingredients
-- 📖 Full recipe CRUD management system
-- 🔒 User authentication & personal recipe vault
-- 🎨 Modern, responsive UI with smooth UX
-
----
-
-### 💰 [Spendly](https://github.com/Hamdayrabby/spendly) — Behavioral Finance Platform
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-10B981?style=flat-square&logo=railway&logoColor=white)](https://spendly-live.up.railway.app/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-> A **behavioral finance platform** that helps you understand *why* you spend, not just *how much*. Track spending habits, visualize financial momentum, and get smart insights that actually change behavior.
-
-**Key Features:**
-- 📊 Behavioral spending pattern analysis
-- 📈 Financial momentum visualization
-- 💡 Smart AI-driven spending insights
-- 🎯 Goal-based budget tracking
-
----
-
-### 🎉 [EventHub](https://github.com/Hamdayrabby/EventHub) — Event Management Platform
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://event-hub-frontend-nine.vercel.app/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-> A modern **event discovery and management platform** — create, browse, and register for events all in one place.
-
-**Key Features:**
-- 📅 Event creation with rich detail management
-- 🔍 Browse & filter events by category/date
-- 👤 User-based event registration and tracking
-- 📱 Fully responsive mobile-first design
-
----
-
-### 🧘 [Comprehensive Stress Relieving Application](https://github.com/Hamdayrabby/Comprehensive-Stress-Relieving-Application) — Mental Wellness App
-![Mental Health](https://img.shields.io/badge/Mental%20Health%20Tech-FF6B6B?style=flat-square)
-![SDLC](https://img.shields.io/badge/Iterative%20Waterfall-4A90D9?style=flat-square)
-
-> A **holistic mental wellness app** built using iterative waterfall SDLC — continuously evolving based on real user feedback. Packed with evidence-based stress-relief tools, breathing exercises, and mood tracking.
-
-**Key Features:**
-- 🫁 Guided breathing & relaxation exercises
-- 📝 Mood tracking & journaling
-- 🔄 Iterative SDLC — continuously improving with user feedback
-- 🌱 Science-backed wellness techniques
-
----
-
-### 🤖 Work Experience — Google Antigravity (DeepMind)
-
-> I contributed to **Antigravity**, an agentic AI coding assistant developed by the **Google DeepMind** team. This involved working at the frontier of AI agent workflows, autonomous tool orchestration, multi-agent systems, and intelligent code assistance — putting me at the cutting edge of AI-powered software development.
-
-[![Google DeepMind](https://img.shields.io/badge/Google%20DeepMind-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
-![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-FF5722?style=flat-square)
-![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-10B981?style=flat-square)
 
 ---
 
@@ -226,6 +132,89 @@ const hamdayRabby = {
 
 ---
 
+## 🚀 Featured Personal Projects
+
+> Impactful projects built to solve real-world problems.
+
+<br/>
+
+### 🧠 [Knotic Sense](https://github.com/Hamdayrabby/knotic_Sense) — AI Job Application CRM
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://knotic-sense.vercel.app)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+> An **AI-powered job application CRM** that takes the guesswork out of job hunting. Features ATS-aware resume scoring, job lifecycle tracking (applied → interview → offer), and semantic match analysis between your profile and job descriptions.
+
+**Key Features:**
+- 🤖 ATS-aware resume scoring with AI feedback
+- 📊 End-to-end job lifecycle tracking dashboard
+- 🔍 Semantic match analysis (your skills vs. job requirements)
+- 📈 Application analytics & success metrics
+
+---
+
+### 🍳 [Let's Cook](https://github.com/Hamdayrabby/Let-s-Cook) — AI Recipe Platform
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://let-s-cook-ruddy.vercel.app/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+> A **full-stack recipe management app** with AI-powered recipe generation. Tell the AI what ingredients you have, and it generates a custom recipe — instantly.
+
+**Key Features:**
+- 🤖 AI-generated recipes from available ingredients
+- 📖 Full recipe CRUD management system
+- 🔒 User authentication & personal recipe vault
+- 🎨 Modern, responsive UI with smooth UX
+
+---
+
+### 💰 [Spendly](https://github.com/Hamdayrabby/spendly) — Behavioral Finance Platform
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-10B981?style=flat-square&logo=railway&logoColor=white)](https://spendly-live.up.railway.app/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+> A **behavioral finance platform** that helps you understand *why* you spend, not just *how much*. Track spending habits, visualize financial momentum, and get smart insights that actually change behavior.
+
+**Key Features:**
+- 📊 Behavioral spending pattern analysis
+- 📈 Financial momentum visualization
+- 💡 Smart AI-driven spending insights
+- 🎯 Goal-based budget tracking
+
+---
+
+### 🎉 [EventHub](https://github.com/Hamdayrabby/EventHub) — Event Management Platform
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://event-hub-frontend-nine.vercel.app/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+> A modern **event discovery and management platform** — create, browse, and register for events all in one place.
+
+**Key Features:**
+- 📅 Event creation with rich detail management
+- 🔍 Browse & filter events by category/date
+- 👤 User-based event registration and tracking
+- 📱 Fully responsive mobile-first design
+
+---
+
+### 🧘 [Comprehensive Stress Relieving Application](https://github.com/Hamdayrabby/Comprehensive-Stress-Relieving-Application) — Mental Wellness App
+![Mental Health](https://img.shields.io/badge/Mental%20Health%20Tech-FF6B6B?style=flat-square)
+![SDLC](https://img.shields.io/badge/Iterative%20Waterfall-4A90D9?style=flat-square)
+
+> A **holistic mental wellness app** built using iterative waterfall SDLC — continuously evolving based on real user feedback. Packed with evidence-based stress-relief tools, breathing exercises, and mood tracking.
+
+**Key Features:**
+- 🫁 Guided breathing & relaxation exercises
+- 📝 Mood tracking & journaling
+- 🔄 Iterative SDLC — continuously improving with user feedback
+- 🌱 Science-backed wellness techniques
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -260,11 +249,7 @@ const hamdayRabby = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hamdayrabby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdayrabby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=8" height="165" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdayrabby&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF5722&currStreakLabel=7C3AED" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdayrabby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=7C3AED&langs_count=8" height="165" alt="Top Languages" />
 
 <br/><br/>
 
@@ -286,8 +271,8 @@ const hamdayRabby = {
 
 ## 📌 What I'm Up To
 
+- 💼 Shipped production applications at **Hype Corporation** (ManyGPT, PromptNext, AltName)
 - 🔭 Building **[Knotic Sense](https://knotic-sense.vercel.app)** — AI-powered job application CRM
-- 🤖 Contributing to **Antigravity** — Google DeepMind's agentic AI coding assistant
 - 🌱 Deepening my skills in **LLM engineering**, **RAG pipelines**, and **AI agent orchestration**
 - 💬 Always happy to talk about **MERN stack**, **AI integration**, or **product design**
 - 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/hamday-rabby-hossain-714990234/)** or **[Twitter/X](https://x.com/HamdayRabby)**
@@ -312,7 +297,7 @@ const hamdayRabby = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
