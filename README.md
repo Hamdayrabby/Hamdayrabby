@@ -215,6 +215,95 @@ const hamdayRabby = {
 
 ---
 
+### 🤖 Work Experience — Google Antigravity (DeepMind)
+
+> I contributed to **Antigravity**, an agentic AI coding assistant developed by the **Google DeepMind** team. This involved working at the frontier of AI agent workflows, autonomous tool orchestration, multi-agent systems, and intelligent code assistance — putting me at the cutting edge of AI-powered software development.
+
+[![Google DeepMind](https://img.shields.io/badge/Google%20DeepMind-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-FF5722?style=flat-square)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-10B981?style=flat-square)
+
+---
+
+## 💼 Professional Experience — Hype Corporation (Intern)
+
+> Real-world, production-grade projects shipped during my internship at **Hype Corporation** — software that actual users depend on every day.
+
+<br/>
+
+### 🤖 ManyGPT — Multi-Model AI Chat Platform
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+> A **production multi-model AI chat platform** that lets users chat with GPT-4o, Claude, Gemini, Llama and more — all in one product. Features Stripe subscription billing, workspace management, and a custom admin dashboard with full error observability.
+
+**My Contributions:**
+- 🔧 Implemented **Stripe checkout & subscription billing** (Pro + Lifetime plans)
+- 📊 Built admin **error-log dashboard** with structured error classification across all AI providers
+- 🛡️ Engineered `classifyChatError()` + `explainChatError()` — centralized error handling for every chat failure path
+- 🐳 Docker multi-service deployment with `docker-compose` orchestration (including Langfuse fanout)
+- 🔑 Multi-provider AI integration (OpenRouter, Google Gemini, OpenAI direct)
+
+**Stack:** `TypeScript` · `React` · `Express` · `MongoDB` · `Docker` · `Stripe` · `Langfuse`
+
+---
+
+### 🗺️ PromptNext (Axo) — AI Visual Project Planning Platform
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square)
+
+> A **visual AI project planner** — describe your product idea and get a structured, interactive node canvas with pages, features, databases, and integrations, all as ready-to-use prompts for AI coding tools like Lovable, Bolt, and Cursor.
+
+**My Contributions:**
+- 💳 Designed & implemented the **credit-based subscription system** (Free → Pro → Lifetime tiers)
+- 🤖 Engineered **multi-model AI routing** (Gemini 2.5 Flash, Claude 3.5 Sonnet, GPT-4o via OpenRouter)
+- 🧮 Built the **token-to-credit cost engine** with flat-rate billing abstraction hiding token complexity from users
+- 🧠 Developed the **Decisive AI Layer** — intent classification system (`AXO_QA`, `PROJECT_CONVERSATION`, `GENERATION_REQUEST`) for intelligent message routing
+- 🔐 Supabase auth + billing + RLS policy infrastructure
+
+**Stack:** `React` · `TypeScript` · `Supabase` · `TanStack Router` · `Gemini API` · `OpenRouter`
+
+---
+
+### ✨ AltName — AI Brand Name Generator
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+> An **AI-powered brand name generation SaaS** — input your product idea, target audience, and brand vibe, and instantly receive creative, domain-available name suggestions. Features full authentication, admin dashboard, and subscription management.
+
+**My Contributions:**
+- 🏗️ Built the **entire backend** from scratch — REST API with Node.js, Express & TypeScript
+- 🔐 Implemented auth with **Better Auth** — Email OTP, Google OAuth, Forgot Password flow
+- 👑 Engineered the full **Admin Dashboard API** — user management, subscription analytics, dashboard stats
+- 🎨 Developed the **User Dashboard UI** (React SPA) and admin panel frontend
+- 📦 Designed the database schema using **Prisma ORM + PostgreSQL**
+
+**Stack:** `Node.js` · `Express` · `TypeScript` · `Prisma` · `PostgreSQL` · `Better Auth` · `React`
+
+---
+
+### 🇧🇩 AI Creators Bangladesh — Community Platform
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+> A **community hub** connecting AI creators, builders, and enthusiasts across Bangladesh — enabling collaboration, knowledge sharing, and project showcasing within the local AI ecosystem.
+
+**Stack:** `React` · `TypeScript` · `Supabase` · `TanStack`
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
