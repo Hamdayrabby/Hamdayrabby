@@ -137,17 +137,6 @@ const hamdayRabby = {
 
 ---
 
-### 🤖 Work Experience — Google Antigravity (DeepMind)
-
-> I contributed to **Antigravity**, an agentic AI coding assistant developed by the **Google DeepMind** team. This involved working at the frontier of AI agent workflows, autonomous tool orchestration, multi-agent systems, and intelligent code assistance — putting me at the cutting edge of AI-powered software development.
-
-[![Google DeepMind](https://img.shields.io/badge/Google%20DeepMind-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
-![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-FF5722?style=flat-square)
-![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-10B981?style=flat-square)
-
----
-
 ## 💼 Professional Experience — Hype Corporation (Intern)
 
 > Real-world, production-grade projects shipped during my internship at **Hype Corporation** — software that actual users depend on every day.
